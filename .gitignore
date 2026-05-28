@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# vscode
+.vscode
+
+# test or temp
+temp
+Metadata_Tool/Genshin
+Metadata_Tool/new
+Metadata_Tool/old
+Metadata_Tool/static/raw
